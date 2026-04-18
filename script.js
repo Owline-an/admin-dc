@@ -6,7 +6,7 @@ const translations = {
                 h1: 'Dominance, <span class="cyan-neon">Redefined.</span>', 
                 p: "The most advanced clan management system for Discord. Voice stats, hierarchical structures, custom identity, and live control right from your browser.", 
                 add: "Add to Discord", 
-                exp: "Dashboard" // تم تغيير الترجمة هنا
+                exp: "Dashboard" // 
             },
             feat: { span: "(Advanced Clan)", sub: "Full control over your group - Inspired by elite management algorithms including role hierarchy and voice hour tracking." },
             cards: {
@@ -18,7 +18,7 @@ const translations = {
             desc: { h: "Clan Dynasty: The Era of Control", p: "Establish your clan, design your identity, and raise your banner in the heart of our glowing system to let everyone know who the masters are. <br><br>👑 Absolute Leadership | 🔒 Digital Sovereignty | 🎲 Roulette System" },
             lead: { span: "Leaderboard", sub: "AAA design displaying XP and ranks with dynamic progress tracking.", r: "Rank", m: "Member", c: "Clan", l: "Level" },
             roll: { span: "Roulette", sub: "Randomly change player roles using elegant selection menus - fully interactive.", h: "Pro Roulette System", p: "Assign roles randomly and fun through interactive Select menus. Integrated with Voice XP & Hierarchy.", btn: "Roll Random Roles", init: "🎲 Click the button to assign a random role!", result: "🎲 Result: Assigned role <strong style='color:#00FFA3'>{role}</strong> to member!" },
-            footer: "© 2025 Clan Dynasty Bot — Advanced management system with Neon Glassmorphism. All rights reserved."
+            footer: "© 2026 Clan Dynasty Bot — Advanced management system with Neon Glassmorphism. All rights reserved."
         },
         ar: {
             dir: "rtl",
@@ -27,7 +27,7 @@ const translations = {
                 h1: 'السيادة، <span class="cyan-neon">بمفهوم جديد.</span>', 
                 p: "نظام إدارة العشائر الأكثر تطوراً لديسكورد. إحصائيات صوتية، تسلسل هرمي، هوية مخصصة، وتحكم مباشر من المتصفح.", 
                 add: "أضف لديسكورد", 
-                exp: "لوحة التحكم" // تم تغيير الترجمة هنا
+                exp: "لوحة التحكم" 
             },
             feat: { span: "(عشيرة متطورة)", sub: "تحكم كامل بمجموعتك - مستوحى من خوارزميات الإدارة العالمية التي تشمل التسلسل الهرمي وتتبع ساعات الصوت." },
             cards: {
@@ -39,7 +39,7 @@ const translations = {
             desc: { h: "عشيرة الداينستي: عصر السيطرة", p: "أسس عشيرتك، صمم هويتك، وارفع شعارك في قلب نظامنا المتوهج ليعلم الجميع من هم الأسياد الجدد. <br><br>👑 قيادة مطلقة | 🔒 سيادة رقمية | 🎲 نظام الروليت" },
             lead: { span: "المتصدرين", sub: "تصميم AAA يعرض نقاط الخبرة والرتب مع تتبع حي للتقدم.", r: "المرتبة", m: "العضو", c: "العشيرة", l: "المستوى" },
             roll: { span: "الروليت", sub: "تغيير أدوار اللاعبين عشوائياً باستخدام قوائم اختيار أنيقة - تفاعلي بالكامل.", h: "نظام روليت احترافي", p: "توزيع الأدوار عشوائياً وبشكل ممتع. متكامل تماماً مع نظام الخبرة الصوتي والهرمية.", btn: "توزيع عشوائي", init: "🎲 اضغط الزر لتعيين دور عشوائي!", result: "🎲 النتيجة: تم تعيين دور <strong style='color:#00FFA3'>{role}</strong> للعضو!" },
-            footer: "© 2025 بوت عشيرة داينستي — نظام إدارة متطور بتقنيات نيون. جميع الحقوق محفوظة."
+            footer: "© 2026 بوت عشيرة داينستي — نظام إدارة متطور بتقنيات . جميع الحقوق محفوظة."
         }
     };
 
